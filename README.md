@@ -63,6 +63,6 @@ It's licensed under the [Apache License 2.0](https://www.apache.org/licenses/LIC
 ### Something doesn't work. You're awful at ansible playbooks.
 
 [Pull requests](https://github.com/major/cis-rhel-ansible/pulls) and [GitHub](https://github.com/major/cis-rhel-ansible/issues) issues are welcome!
-
+mireille
 _-- Major_
 # cis-rhel-ansible-playbook
